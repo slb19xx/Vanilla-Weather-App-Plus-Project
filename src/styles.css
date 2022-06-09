@@ -1,0 +1,56 @@
+.container {
+  width: 830px;
+  border-style: solid;
+  border-color: #5a6275;
+  position: relative;
+  top: 10px;
+}
+
+.btn {
+  background-color: #ab47bc;
+  border-color: #eedaf2;
+}
+
+.btn:hover {
+  background-color: #eedaf2;
+  color: #ab47bc;
+  border-color: #ab47bc;
+}
+
+.today {
+  position: static;
+  font-size: 46px;
+  font-weight: 400;
+  color: #ab47bc;
+  margin-top: 5px;
+}
+
+.day-time {
+  position: static;
+  font-size: 36px;
+  font-weight: 400;
+  color: #5a6275;
+}
+
+.weather-today {
+  position: static;
+  color: #ab47bc;
+  font-size: 46px;
+  font-weight: 400;
+}
+
+.forecast {
+  text-align: center;
+  font-size: 22px;
+  color: #ab47bc;
+  border-style: solid;
+  border-color: #eedaf2;
+  position: relative;
+}
+
+.open-source-code {
+  color: hotpink;
+  position: relative;
+  top: 20px;
+  left: 360px;
+}
